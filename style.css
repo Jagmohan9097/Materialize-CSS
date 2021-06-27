@@ -1,0 +1,58 @@
+.nav-wrapper{
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#list{
+    margin-right: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.carousel{
+    height: 565px !important;
+}
+
+.btn1{
+    position: absolute;
+    margin-left: 43% !important;
+    background-color: rgb(5, 190, 190) !important;
+    color:rgb(1, 14, 14) !important;
+    font-weight: bold;
+}
+.btn2{
+    position: absolute;
+    margin-left: 40%;
+    background-color: rgb(3, 85, 85) !important;
+}
+.btn3{
+    position: absolute;
+    margin-left: 0px;
+    background-color: rgb(25, 144, 138) !important;
+}
+.about{
+    font-family: Josefin Sans; 
+    width: 90%; 
+    margin: auto;
+    margin-top: 120px;
+    font-weight: bolder;
+}
+hr{
+    
+    background: rgb(95, 95, 95);
+}
+.btn1{
+    position: absolute;
+    margin-left: 0px;
+}
+.gallery{
+    height: 500px !important;
+}
+
+.card{
+    height: 400px !important;
+}
+.love{
+    margin-left: 5px !important;
+    color: rgb(185, 19, 19) !important;
+}
